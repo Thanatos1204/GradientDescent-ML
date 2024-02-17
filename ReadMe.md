@@ -1,4 +1,4 @@
-Gradient Descent from Scratch
+```Gradient Descent from Scratch
 This repository contains Python code for implementing a Gradient Descent mechanism from scratch. Gradient Descent is a first-order iterative optimization algorithm for finding the minimum of a function. In this implementation, we focus on applying Gradient Descent to train a linear regression model.
 
 Contents
@@ -22,7 +22,7 @@ Usage
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/gradient-descent-from-scratch.git
+git clone (https://github.com/Thanatos1204/GradientDescent-ML.git)
 Navigate to the project directory:
 bash
 Copy code
@@ -36,4 +36,4 @@ The main components of the code are as follows:
 Data Preprocessing: The code starts by loading a dataset containing weather data and preprocessing it, including handling missing values using forward filling.
 Linear Regression: It demonstrates how to perform linear regression using scikit-learn and visualizes the linear relationship between the maximum temperature and tomorrow's maximum temperature.
 Gradient Descent Implementation: The core of the code involves implementing Gradient Descent from scratch. It includes functions for forward propagation, computing mean squared error (MSE) loss, computing gradients, and backward propagation to update the model parameters.
-Training Loop: The training loop iteratively updates the model parameters using Gradient Descent and evaluates the model's performance on a validation set.
+Training Loop: The training loop iteratively updates the model parameters using Gradient Descent and evaluates the model's performance on a validation set. js```
